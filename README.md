@@ -1,6 +1,6 @@
-# Deeplearing.ai: ML-data-lifecycle-in-production 
+# Deeplearing.ai course: ML-data-lifecycle-in-production 
 
-# Week 1 Assignment: Data Validation with TensorFlow Data Validation (TFDV)
+# Assignment: Data Validation with TensorFlow (TFDV)
 
 ## Project Overview
 This project utilizes [TensorFlow Data Validation (TFDV)](https://cloud.google.com/solutions/machine-learning/analyzing-and-validating-data-at-scale-for-ml-using-tfx), an open-source library designed for understanding, validating, and monitoring machine learning data at scale. TFDV is instrumental in analyzing datasets in various stages, such as training, evaluation, and serving, ensuring consistency and detecting potential issues like training/serving skew.
@@ -38,6 +38,4 @@ Follow the exercises in the provided Jupyter notebooks, starting with the setup 
 ## Contributing
 We welcome contributions and suggestions! If you're interested in contributing, please review the contribution guidelines, submit pull requests, or open issues for discussion.
 
-## License
-[Specify the License if applicable]
 
